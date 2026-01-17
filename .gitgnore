@@ -1,0 +1,22 @@
+# Python compilation
+__pycache__/
+*.py[cod]
+
+# Virtual Environments (Important!)
+venv/
+env/
+.venv/
+
+# Environment Variables (Secrets)
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings (VS Code)
+.vscode/
+
+# Distribution / Builds
+dist/
+build/
+*.egg-info/
